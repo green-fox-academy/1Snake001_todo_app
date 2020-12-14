@@ -1,2 +1,2 @@
-# Snake001_todo_app
-Snake001_todo_app
+# Snake_todo_app
+Snake_todo_app
